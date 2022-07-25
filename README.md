@@ -3,8 +3,8 @@
 
 Para desinstalar simplesmente baixe o desinstalador e o execute com o seguinte comando via terminal:
 
-			<pre>
-				<code>
+<pre>
+	<code>
 python neuraline_uninstaller.pyc
-				</code>
-			</pre>
+	</code>
+</pre>
